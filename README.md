@@ -1,6 +1,7 @@
           ** KITCHEN WEBSITE **
  
-A responsive kitchen template website. 
+A Responsive kitchen template website. 
 
-                          Link to the website is attached.
-                          https://fatimayousif.github.io/KitchenWebsite/
+Link to the website is attached.
+
+https://fatimayousif.github.io/KitchenWebsite/
